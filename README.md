@@ -1,2 +1,3 @@
 # Pangolin 中文样例
-# 代码解析即教程参见csdn：
+Pangolin官方教程中文注释及SLAM可视化样例
+代码解析及教程参见csdn：
