@@ -1,4 +1,4 @@
-# Pangolin 中文样例
+# Pangolin 中文样例(主要针对SLAM可视化)
 
 Pangolin官方教程中文注释及SLAM可视化样例
 
@@ -17,3 +17,10 @@ task5：使用Pangolin绘制曲线
 task6：使用Pangolin绘制带位姿变化的相机模型
 
 task7：使用Pangolin进行SLAM可视化
+
+# Author
+yuntianlee91@hotmail.com
+
+# License
+
+The source code is under GPLv3 license. Enjoy it ^_^ ! 
