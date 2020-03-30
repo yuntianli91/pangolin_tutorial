@@ -23,4 +23,4 @@ yuntianlee91@hotmail.com
 
 # License
 
-The source code is under GPLv3 license. Enjoy it ^_^ ! 
+The source code is under [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) license. Enjoy it ^_^ ! 
