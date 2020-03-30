@@ -11,3 +11,5 @@ task2：Pangolin与多线程
 task3：Pangolin与控件
 
 task4：Pangolin多视图显示
+
+task5：使用Pangolin显示相机位姿
