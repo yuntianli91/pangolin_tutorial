@@ -12,4 +12,8 @@ task3：Pangolin与控件
 
 task4：Pangolin多视图显示
 
-task5：使用Pangolin显示相机位姿
+task5：使用Pangolin绘制曲线
+
+task6：使用Pangolin绘制带位姿变化的相机模型
+
+task7：使用Pangolin进行SLAM可视化
