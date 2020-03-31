@@ -38,7 +38,8 @@ int main(/*int argc, char* argv[]*/)
   {
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-    log.Log(sin(t),cos(t),sin(t)+cos(t));
+    // log.Log(sin(t),cos(t),sin(t)+cos(t));
+    log.Log(1,2,3);
     t += tinc;
 
     // Render graph, Swap frames and Process Events
